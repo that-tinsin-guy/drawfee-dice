@@ -1,29 +1,3 @@
-var dicelist = [
-"Cocktail",
-"Animal",
-"Pop Culture Property",
-"Animal Crossing Resident",
-"Pok&eacute;mon",
-"D&D Class",
-"Homestuck Troll Romance",
-"Hollow Knight Character",
-"Neopet Color"
-];
-
-var list_of_lists = [
-cocktails,
-animals,
-pop_culture_properties,
-animal_crossing_villagers,
-pokemon,
-dnd_classes,
-homestuck_troll_romances,
-hollow_knight_characters,
-neopet_colors
-];
-
-
-
 
 
 var pokemon = [
@@ -1372,6 +1346,29 @@ var neopet_colors = [
 
 
 
+var dicelist = [
+"Cocktail",
+"Animal",
+"Pop Culture Property",
+"Animal Crossing Resident",
+"Pok&eacute;mon",
+"D&D Class",
+"Homestuck Troll Romance",
+"Hollow Knight Character",
+"Neopet Color"
+];
+
+var list_of_lists = [
+cocktails,
+animals,
+pop_culture_properties,
+animal_crossing_villagers,
+pokemon,
+dnd_classes,
+homestuck_troll_romances,
+hollow_knight_characters,
+neopet_colors
+];
 
 
 
