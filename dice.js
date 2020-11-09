@@ -1386,7 +1386,7 @@ $( document ).ready(function() {
 <div class="text-center border" id="`+ i +`">
 &nbsp;
 </div>
-<a class="btn btn-fluid btn-primary btn-block" onclick="roll(list_of_lists[`+ i + "]," + i +`);">`+ dicelist[i-1] +`
+<a class="btn btn-fluid btn-primary btn-block" onclick="roll(list_of_lists[`+ i + "-1]," + i +`);">`+ dicelist[i-1] +`
 </a>
 </div>
 `;
